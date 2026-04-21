@@ -27,28 +27,28 @@ function App() {
       image: "https://i.postimg.cc/VvWH88wJ/6.png",
       name: "PACOTE PRATA",
       price: "29,90",
-      baseUrl: "https://app.flowcheckout.pro/YtgnujC",
+      baseUrl: "https://pagar.thaypack.com/4c420f",
       tier: 'silver'
     },
     {
       image: "https://i.postimg.cc/hvB36GkF/8.png",
       name: "PACOTE OURO",
       price: "39,90",
-      baseUrl: "https://app.flowcheckout.pro/CuCcg4q",
+      baseUrl: "https://pagar.thaypack.com/44be49",
       tier: 'gold'
     },
     {
       image: "https://i.postimg.cc/ZR3MwNDF/TABELAS.png",
       name: "PACOTE DIAMANTE",
       price: "59,90",
-      baseUrl: "https://app.flowcheckout.pro/QeBjobY",
+      baseUrl: "https://pagar.thaypack.com/e19696",
       tier: 'diamond'
     },
     {
       image: "https://i.postimg.cc/fWcPXxdM/18.png",
       name: "CHAMADA DE VÍDEO",
       price: "49,90",
-      baseUrl: "https://app.flowcheckout.pro/DV6mBqq",
+      baseUrl: "https://pagar.thaypack.com/c7fe46",
       tier: 'video'
     }
   ];
